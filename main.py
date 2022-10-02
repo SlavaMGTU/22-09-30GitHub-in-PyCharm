@@ -5,4 +5,6 @@ number_ver_prodj = 1
 name_prodj = "Git in PyCharm"
 'made change 1 to the local file and и Reformat code'
 number_ver_prodj += 1
+'made change 3 to the local file and и Reformat code+ return to master branch'
+number_ver_prodj += 0.1
 print(f'Your project is "{name_prodj}.{number_ver_prodj}"')
